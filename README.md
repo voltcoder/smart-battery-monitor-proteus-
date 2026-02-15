@@ -91,9 +91,15 @@ This project demonstrates:
 smart-battery-monitor-proteus/
 │
 ├── code/
+
 │ └── battery_monitor.ino
+
 ├── simulation/
+
 │ └── battery_monitor.pdsprj
+
 ├── screenshots/
+
 │ └── simulation_running.png
+
 └── README.md
